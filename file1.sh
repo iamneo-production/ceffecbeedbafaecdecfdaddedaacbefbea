@@ -7,4 +7,4 @@ then
     echo "Date of Birth: $fordate"
 else
     echo "Invalid input,please enter in correct format."
-fi
+fi;

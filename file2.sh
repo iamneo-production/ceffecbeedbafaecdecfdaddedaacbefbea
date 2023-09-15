@@ -5,4 +5,4 @@ if[ $total -gt 70 ]; then
 echo "Pass"
 else 
 echo "Fail"
-fi
+fi;
